@@ -1,4 +1,4 @@
-# 🖥️ Server Manager
+# 🖥️ NordicHosting Server Management
 
 En terminalbaserad serverhanteringsapplikation skriven i Python med SSH-integration.
 
@@ -15,8 +15,8 @@ En terminalbaserad serverhanteringsapplikation skriven i Python med SSH-integrat
 
 1. Klona repositoryt:
 ```bash
-git clone https://github.com/DITT-ANVÄNDARNAMN/server-manager.git
-cd server-manager
+git clone https://github.com/thorbjornnordichosting/NordicHosting-Server-Management.git
+cd NordicHosting-Server-Management
 ```
 
 2. Installera Python 3:
