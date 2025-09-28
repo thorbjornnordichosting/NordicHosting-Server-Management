@@ -1,4 +1,4 @@
-# 🖥️ NordicHosting Server Management
+# ![Nordic Hosting Logo](https://www.nordichosting.com/u/nordic-hosting-logo.png) NordicHosting Server Management
 
 En terminalbaserad serverhanteringsapplikation skriven i Python med SSH-integration.
 
