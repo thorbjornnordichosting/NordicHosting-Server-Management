@@ -1,0 +1,12 @@
+{
+  "server-10-0-0-38": {
+    "name": "server-10-0-0-38",
+    "command": "python3 server_10_0_0_38.py 8080",
+    "port": 8080,
+    "working_directory": "/tmp/server_manager",
+    "description": "Webbserver på 10.0.0.38:8080 med SSH-info",
+    "auto_start": false,
+    "pid": null,
+    "status": "online"
+  }
+}
