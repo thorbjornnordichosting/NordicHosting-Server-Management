@@ -123,4 +123,4 @@ För frågor eller problem, skapa en issue på GitHub.
 
 ---
 
-**Skapad med ❤️ för enkel serverhantering**
+**Skapad med ❤️ för enkel serverhantering i Norge** 🇳🇴
