@@ -2,7 +2,7 @@
 
 En terminalbaserad serverhanteringsapplikation skriven i Python med SSH-integration.
 
-## ✨ Funktioner
+## Funktioner
 
 - **Serverhantering**: Lägg till, ta bort, starta, stoppa och starta om servrar
 - **SSH-integration**: Anslut direkt till servrar via SSH (speciellt 10.0.0.38)
